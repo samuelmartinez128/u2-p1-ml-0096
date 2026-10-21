@@ -4,5 +4,8 @@
 ## array de 2 dimensiones
 ![alt text](image-1.png)
 
-### mas ejemplos de arreglos o array
+### mas ejemplos de arreglos o arrays
 ![alt text](image.png)
+
+## resultados
+![alt text](image-3.png)
